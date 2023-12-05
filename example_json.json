@@ -1,0 +1,10 @@
+{
+    "username": "alexsmith",
+    "name": "Alex Smith",
+    "profileImage": "https://example.com/images/profiles/alexsmith.jpg",
+    "bio": "Nature photographer and outdoor adventurer",
+    "location": "Vancouver, Canada",
+    "categories": ["Nature", "Landscape", "Travel"],
+    "interests": ["Wildlife Photography", "Aerial Shots", "Adventure Travel"],
+    "website": "https://www.alexsmithphotography.com"
+  }
